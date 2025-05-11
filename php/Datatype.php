@@ -2,7 +2,7 @@
 echo "<h2>PHP Data Types Example</h2>";
 
 // 1. String
-$name = "Sajid";
+$name = "Mandar";
 echo "String: ";
 var_dump($name);
 echo "<br><br>";
